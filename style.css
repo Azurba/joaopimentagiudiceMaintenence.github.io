@@ -1,0 +1,19 @@
+#leftbox {
+    float:left;
+    width:25%;
+    height:280px;
+}
+#middlebox{
+    float:left;
+    width:50%;
+    height:280px;
+}
+#rightbox{
+    float:right;
+    width:25%;
+    height:280px;
+}
+h1{
+    color:green;
+    text-align:center;
+}
